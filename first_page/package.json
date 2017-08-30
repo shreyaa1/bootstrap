@@ -1,0 +1,15 @@
+{
+  "name": "j",
+  "version": "1.0.0",
+  "description": "\"# c_signup_page\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http_server": "^1.0.12"
+  },
+  "devDependencies": {}
+}
